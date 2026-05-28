@@ -12,7 +12,7 @@
 - 🎛️ **Local AI** | Локальный ИИ  
   Performance tuning on RTX 5060 Ti (Blackwell) — GGUF, quantization
 - ⚡ **Smart Home** | Умный дом  
-  ESP32, Zigbee (MQTT/ZHA), Home Assistant automation но в основном Yandex Алиса (Alsa)
+  ESP32, Zigbee (MQTT/ZHA), Home Assistant automation но в основном Yandex Алиса (Alisa)
 
 ---
 
