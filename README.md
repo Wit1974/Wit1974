@@ -20,8 +20,7 @@
 
 🔹 **Fish-Audio for RTX 5060 Ti** — Speech synthesis adaptation for Blackwell architecture *(repo coming soon)*
 
-🔹 **ESP32 Zigbee Sensor** — Custom temperature/humidity sensor for Home Assistant *(repo coming soon)*
-
+🔹 **[ESP32-C6 Zigbee Temperature + Rain Sensor](https://github.com/Wit1974/esp32-c6-zigbee-rain-temperature-sensor)** — Custom temperature + rain sensor for Home Assistant
 ---
 
 ## 📊 GitHub Stats
